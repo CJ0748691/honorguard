@@ -1,5 +1,7 @@
 python不熟請自學(sorry)
 
+下載VScode會很方便
+
 執行程式時 excel檔必須關閉
 
 執行完之後，打開excel檔複製表格
